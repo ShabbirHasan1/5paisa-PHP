@@ -1,5 +1,14 @@
 {
-    "name": "websocket/5paisa",
+    "name": "5paisa/php5paisa",
+    "description": "This is 5paisa php sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "5paisa",
+            "email": "coreteam@5paisa.com"
+        }
+    ],
     "require": {
         "amphp/websocket-client": "^1.0"
     }
