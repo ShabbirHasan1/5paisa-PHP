@@ -1,0 +1,6 @@
+{
+    "name": "websocket/5paisa",
+    "require": {
+        "amphp/websocket-client": "^1.0"
+    }
+}
